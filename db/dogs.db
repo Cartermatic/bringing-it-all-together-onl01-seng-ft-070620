@@ -1,0 +1,19 @@
+class Dogs
+  attr_accessor :id
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
